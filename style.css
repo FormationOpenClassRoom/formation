@@ -9,3 +9,19 @@ text-align:center;
 font-family:AlexBrush-Regular;
 font-size:3em;
 }
+.image
+{
+		display:inline-block;
+		border:solid;
+		border-bottom-color:black;
+		border-right-color:black;
+		border-top-style:none;
+		border-left-style:none;
+		box-shadow: 6px 6px 0.5px black;
+		margin-right:10px;
+		margin-top:5px;
+		text-align:right;
+		position:absolute;
+		right:0px;
+		top:0px;
+}
