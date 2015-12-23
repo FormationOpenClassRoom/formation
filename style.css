@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AlexBrush-Regular';
+    src: url('AlexBrush-Regular.ttf');
+}
+
+h1
+{
+text-align:center;
+font-family:AlexBrush-Regular;
+font-size:3em;
+}
